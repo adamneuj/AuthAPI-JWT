@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthAPI-JWT", "AuthAPI-JWT\AuthAPI-JWT.csproj", "{2AA19B31-08C7-471F-B51D-68DE64F4EC9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AA19B31-08C7-471F-B51D-68DE64F4EC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA19B31-08C7-471F-B51D-68DE64F4EC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA19B31-08C7-471F-B51D-68DE64F4EC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA19B31-08C7-471F-B51D-68DE64F4EC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8FF08B9-3EB3-419F-B025-8C2B4687C2EF}
+	EndGlobalSection
+EndGlobal
